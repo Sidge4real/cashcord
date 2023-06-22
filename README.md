@@ -11,6 +11,8 @@
 This project was made for [AP highschool](https://www.ap.be/en/homepage) (Antwerp/Belguim), for our end presentation of our first year.
 Our presentation powerpoint can be [viewed here](https://github.com/Sidge4real/cashcord/blob/main/docs/Presentatie.ppsx). This read-only. Click above right on the download icon to see the powerpoint. This is in Dutch written.
 
+The API is from national bank of belguim. For acces to API, contact them.
+
 ## 🚀 Technologies
 
 **Node**:
