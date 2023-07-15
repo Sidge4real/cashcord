@@ -3,7 +3,7 @@
 - [@aarafr](https://github.com/aarafr)
 - [@sidge](https://github.com/Sidge4real)
 - [@vincentlirio23](https://github.com/vincentlirio23)
-- [@aarafr](https://github.com/aarafr)
+- [@inash](https://github.com)
 - [@kobe](https://github.com)
 
 ## 💼 Project
